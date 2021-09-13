@@ -1,0 +1,10 @@
+C:\Users\Josileissu\Desktop\EstudoC#\Visual Studio 2019 - CFB Cursos\CFB - Cursos - Aulas\bin\Debug\CFB - Cursos - Aulas.exe.config
+C:\Users\Josileissu\Desktop\EstudoC#\Visual Studio 2019 - CFB Cursos\CFB - Cursos - Aulas\bin\Debug\CFB - Cursos - Aulas.exe
+C:\Users\Josileissu\Desktop\EstudoC#\Visual Studio 2019 - CFB Cursos\CFB - Cursos - Aulas\bin\Debug\CFB - Cursos - Aulas.pdb
+C:\Users\Josileissu\Desktop\EstudoC#\Visual Studio 2019 - CFB Cursos\CFB - Cursos - Aulas\obj\Debug\CFB - Cursos - Aulas.csproj.AssemblyReference.cache
+C:\Users\Josileissu\Desktop\EstudoC#\Visual Studio 2019 - CFB Cursos\CFB - Cursos - Aulas\obj\Debug\CFB___Cursos___Aulas.Form1.resources
+C:\Users\Josileissu\Desktop\EstudoC#\Visual Studio 2019 - CFB Cursos\CFB - Cursos - Aulas\obj\Debug\CFB___Cursos___Aulas.Properties.Resources.resources
+C:\Users\Josileissu\Desktop\EstudoC#\Visual Studio 2019 - CFB Cursos\CFB - Cursos - Aulas\obj\Debug\CFB - Cursos - Aulas.csproj.GenerateResource.cache
+C:\Users\Josileissu\Desktop\EstudoC#\Visual Studio 2019 - CFB Cursos\CFB - Cursos - Aulas\obj\Debug\CFB - Cursos - Aulas.csproj.CoreCompileInputs.cache
+C:\Users\Josileissu\Desktop\EstudoC#\Visual Studio 2019 - CFB Cursos\CFB - Cursos - Aulas\obj\Debug\CFB - Cursos - Aulas.exe
+C:\Users\Josileissu\Desktop\EstudoC#\Visual Studio 2019 - CFB Cursos\CFB - Cursos - Aulas\obj\Debug\CFB - Cursos - Aulas.pdb
